@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Docker
+*.log
+
+# Flutter
+flutter/.dart_tool/
+flutter/.idea/
+flutter/.packages
+flutter/build/
+flutter/.flutter-plugins
+flutter/.flutter-plugins-dependencies
+flutter/.metadata
+
+# VS Code
+.vscode/
+
